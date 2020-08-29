@@ -1,0 +1,79 @@
+
+html, body {
+    margin: 10;
+    padding: 0;
+    background-image: url("backgroundimg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position: 50%;
+  
+  }
+  canvas {
+    display: block;
+    display: block;
+    border: 10px solid ;
+    margin-right:auto;
+    margin-left:auto;
+ 
+    
+  }.hello{
+    color: dodgerblue}
+    .frame {
+      margin: auto;
+    width: 83.0em;
+    height: 22.3em;
+    overflow: hidden;
+   
+    position: relative;
+     
+     
+  
+ 
+}
+a:link{color:rgb(0, 100, 30)}
+a:visited{color:rgb(0, 72, 139)}
+.bg2 {
+  margin: auto;
+  width: 83.0em;
+  height: 45.2em/2;
+  overflow: hidden;
+ 
+  position: relative;
+ 
+
+
+}
+.intro{
+    color:darkslategray;
+    padding: 40px;
+   font-size:100
+    
+}
+
+.camelchamelon{
+color:aquamarine;
+background-color: rebeccapurple;
+    display:flex;
+  
+    flex-direction:row;
+    justify-content: left;}
+  
+    .camelchamelon p{   position:absolute;
+      font-size:70px;
+      top:15%;
+      left:50%;
+      font-size:300;
+      transform:translate(-50%,-50%);
+      opacity:0;
+}
+.camelchamelon:hover p{ opacity:1}
+
+  .facts{
+      color:#e50b45;
+      font-size:30 px;
+
+  }
+  
+  
+  
+ 
